@@ -44,6 +44,7 @@ const App = () => (
           <Route path="/tab2" component={Tab2} exact={true} />
           <Route path="/tab3" component={Tab3} />
           <Route path="/" render={() => <Redirect to="/tab1" />} exact={true} />
+          <Route path="/Business-mobile-app" render={() => <Redirect to="/tab1" />} exact={true} />
         </IonRouterOutlet>
         <IonTabBar slot="bottom" selectedTab="tab1">
           <IonTabButton tab="tab1" href="/tab1">
