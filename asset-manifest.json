@@ -13,8 +13,8 @@
     "static/js/5.0090812e.chunk.js": "/Business-mobile-app/static/js/5.0090812e.chunk.js",
     "static/js/5.0090812e.chunk.js.map": "/Business-mobile-app/static/js/5.0090812e.chunk.js.map",
     "main.css": "/Business-mobile-app/static/css/main.a4b23d7c.chunk.css",
-    "main.js": "/Business-mobile-app/static/js/main.a091d983.chunk.js",
-    "main.js.map": "/Business-mobile-app/static/js/main.a091d983.chunk.js.map",
+    "main.js": "/Business-mobile-app/static/js/main.ae34b3e3.chunk.js",
+    "main.js.map": "/Business-mobile-app/static/js/main.ae34b3e3.chunk.js.map",
     "runtime-main.js": "/Business-mobile-app/static/js/runtime-main.933ed7cc.js",
     "runtime-main.js.map": "/Business-mobile-app/static/js/runtime-main.933ed7cc.js.map",
     "stencil-ion-avatar_3-ios-entry-js.js": "/Business-mobile-app/static/js/stencil-ion-avatar_3-ios-entry-js.79a53c67.chunk.js",
@@ -187,7 +187,7 @@
     "static/js/91.adfe5696.chunk.js": "/Business-mobile-app/static/js/91.adfe5696.chunk.js",
     "static/js/91.adfe5696.chunk.js.map": "/Business-mobile-app/static/js/91.adfe5696.chunk.js.map",
     "index.html": "/Business-mobile-app/index.html",
-    "precache-manifest.caf1bfe01718c6c1ce01ef0c64624057.js": "/Business-mobile-app/precache-manifest.caf1bfe01718c6c1ce01ef0c64624057.js",
+    "precache-manifest.7fa4eb6d6bc5ba098d5eec4efc1c52c3.js": "/Business-mobile-app/precache-manifest.7fa4eb6d6bc5ba098d5eec4efc1c52c3.js",
     "service-worker.js": "/Business-mobile-app/service-worker.js",
     "static/css/51.7a8853e6.chunk.css.map": "/Business-mobile-app/static/css/51.7a8853e6.chunk.css.map",
     "static/css/main.a4b23d7c.chunk.css.map": "/Business-mobile-app/static/css/main.a4b23d7c.chunk.css.map",
@@ -201,6 +201,6 @@
     "static/css/51.7a8853e6.chunk.css",
     "static/js/51.fef6edf6.chunk.js",
     "static/css/main.a4b23d7c.chunk.css",
-    "static/js/main.a091d983.chunk.js"
+    "static/js/main.ae34b3e3.chunk.js"
   ]
 }
