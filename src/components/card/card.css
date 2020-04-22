@@ -1,0 +1,31 @@
+.cardViewing {
+    font-size: .7em;
+    font-weight: 500;
+}
+
+.cardTitle {
+    font-size: 14px;
+    width: 40%;
+    font-weight: 500;
+}
+
+.inlineText {
+    display: inline-block;
+}
+
+.cardAmount {
+    text-align: right;
+    position: relative;
+    width: 60%;
+}
+
+.tagCard {
+    width: 5em;
+    color: #fff;
+    text-align: center;
+    margin-left: auto;
+    position: relative;
+    top: 5px;
+    padding: 0 3px 0 3px;
+    border-radius: 20px;
+}

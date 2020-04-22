@@ -1,0 +1,8 @@
+{
+  "appId": "com.business.app",
+  "appName": "business-app",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "build",
+  "cordova": {}
+}

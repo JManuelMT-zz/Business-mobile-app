@@ -1,0 +1,134 @@
+.topSection {
+    background-color: #34A6DC;
+    width: 100vw;
+    padding-top: 10;
+    padding: 10px;
+}
+
+.topHeader {
+    text-align: center;
+}
+
+.topTitle {
+    color: #fff;
+    font-size: 1.3em;
+    font-weight: 500;
+    padding-top: .5em;
+    display: inline-block;
+}
+
+.topTag {
+    background-color: #fff;
+    color: #34A6DC;
+    font-size: .2em;
+    font-weight: bold;
+    border-radius: 7px;
+    position: relative;
+    bottom: 10px;
+    left: 2px;
+    padding: 1.5px 2.5px 1.5px 2px;
+}
+
+.litleText {
+    color: #82d3ff;
+    font-size: .7em;
+    font-weight: 400;
+}
+
+.topCircle {
+    border: .5px #fff solid;
+    color: #fff;
+    font-size: 1em;
+    font-weight: 400;
+    padding: 3.5px 3px 5px 3px;
+    border-radius: 14px;
+    position: absolute;
+    top: 2.2em;
+    right: .7em;
+    display: inline-block;
+}
+
+.dataBox {
+    background-color: #61B1DC;
+    width: 95vw;
+    border-radius: 5px;
+    margin-top: 5px;
+    margin-bottom: 8px;
+}
+
+.dataBoxInside {
+    display: inline-block;
+    height: 76px;
+    color: #fff;
+    text-align: center;
+    width: 25%;
+}
+
+.dataBorder {
+    border-right: .2px solid #ccedff;
+}
+
+.dataBoxText {
+    font-size: .7em;
+    padding-top: 5px;
+    font-weight: 500;
+}
+
+.iconTopSection {
+    color: #fff;
+    font-size: 1.8em;
+}
+
+.elInline {
+    display: inline-block;
+}
+
+.iconCircle {
+    border: 1.5px solid #fff;
+    border-radius: 15px;
+    padding: 3px;
+    font-size: .8em;
+    color: #fff;
+}
+
+.dateArea {
+    text-align: right;
+    position: relative;
+    width: 100vw;
+    bottom: 30px;
+    padding-right: 1.5em;
+    display: inline-block;
+}
+
+.areaDate {
+    color: #fff;
+    font-size: .8em;
+    padding: 5px 7px 5px 7px;
+    border: 1px solid #fff;
+    border-radius: 14px;
+    margin-left: 5px;
+}
+
+.whiteBar {
+    width: 2.5em;
+    background: #fff;
+    height: 4px;
+    position: relative;
+    bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 5px;
+    border-radius: 6px;
+}
+
+.calendar {
+    z-index: 999;
+    position: absolute;
+    -webkit-box-shadow: 4px 6px 11px -3px rgba(99,99,99,1);
+    -moz-box-shadow: 4px 6px 11px -3px rgba(99,99,99,1);
+    box-shadow: 4px 6px 11px -3px rgba(99,99,99,1);
+}
+
+.react-calendar__tile--now {
+    background-color: rgba(99,99,99, 0.2) !important;
+}
