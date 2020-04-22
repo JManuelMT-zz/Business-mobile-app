@@ -45,7 +45,7 @@ const App = () => (
           <Route path="/tab3" component={Tab3} />
           <Route path="/" render={() => <Redirect to="/tab1" />} exact={true} />
         </IonRouterOutlet>
-        <IonTabBar slot="bottom">
+        <IonTabBar slot="bottom" selectedTab="tab1">
           <IonTabButton tab="tab1" href="/tab1">
             <IonIcon icon={timerOutline} />
             <IonLabel>Dashboard</IonLabel>
