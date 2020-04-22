@@ -2,6 +2,7 @@
   "name": "business-app",
   "version": "0.0.1",
   "private": true,
+  "homepage": "https://jmanuelmt.github.io/Business-mobile-app/",
   "dependencies": {
     "@capacitor/cli": "^2.0.1",
     "@capacitor/core": "^2.0.1",
